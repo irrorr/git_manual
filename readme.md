@@ -6,7 +6,7 @@ LICENSE: [MIT](./license.md)
 
 ---
 ### Содержание:
-1. [Кратко о GIT истории создания](./1_git_history.md)
+1. [Кратко о GIT и истории создания](./1_git_history.md)
 
 ---
 
