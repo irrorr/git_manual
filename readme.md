@@ -34,7 +34,10 @@ LICENSE: [MIT](./license.md)
     * [git remote](./6_git_collab_work.md#git-remote)
     * [git archive](./6_git_collab_work.md#git-archive)
     * [git submodule](./6_git_collab_work.md#git-submodule)
-    
+7. [Команды осмотра и сравнения](./7_git_view_comands.md)
+    * [git show](./7_git_view_comands.md#git-show)
+    * [git shortlog](./7_git_view_comands.md#git-shortlog)
+    * [git describe](./7_git_view_comands.md#git-describe)
 ---
 
 
