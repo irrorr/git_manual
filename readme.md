@@ -24,7 +24,11 @@ LICENSE: [MIT](./license.md)
     * [git checkout](./5_git_merge_and_branch.md#git-checkout)
     * [git merge](./5_git_merge_and_branch.md#git-merge)
     * [git mergetool](./5_git_merge_and_branch.md#git-mergetool)
+    * [git log](./5_git_merge_and_branch.md#git-log)
+    * [git stash](./5_git_merge_and_branch.md#git-stash)
+    * [git tag](./5_git_merge_and_branch.md#git-tag)
 ---
+
 
 Logo by [SkillFactory](https://skillfactory.ru/)
 
