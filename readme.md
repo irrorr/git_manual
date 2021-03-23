@@ -27,6 +27,14 @@ LICENSE: [MIT](./license.md)
     * [git log](./5_git_merge_and_branch.md#git-log)
     * [git stash](./5_git_merge_and_branch.md#git-stash)
     * [git tag](./5_git_merge_and_branch.md#git-tag)
+6. [Команды совместной работе и обновления проектов](./6_git_collab_work.md)
+    * [git fetch](./6_git_collab_work.md#git-fetch)
+    * [git pull](./6_git_collab_work.md#git-pull)
+    * [git push](./6_git_collab_work.md#git-push)
+    * [git remote](./6_git_collab_work.md#git-remote)
+    * [git archive](./6_git_collab_work.md#git-archive)
+    * [git submodule](./6_git_collab_work.md#git-submodule)
+    
 ---
 
 
