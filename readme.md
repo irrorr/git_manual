@@ -38,6 +38,10 @@ LICENSE: [MIT](./license.md)
     * [git show](./7_git_view_comands.md#git-show)
     * [git shortlog](./7_git_view_comands.md#git-shortlog)
     * [git describe](./7_git_view_comands.md#git-describe)
+8. [Команды отладки](./8_git_debug.md)
+    * [git bisect](./8_git_debug.md#git-bisect)
+    * [git blame](./8_git_debug.md#git-blame)
+    * [git grep](./8_git_debug.md#git-grep)
 ---
 
 
