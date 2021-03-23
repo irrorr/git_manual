@@ -20,6 +20,10 @@ LICENSE: [MIT](./license.md)
     * [git mv](./4_git_command.md#git-mv)
     * [git clean](./4_git_command.md#git-clean)
 5. [Команды ветвления и слияния](./5_git_merge_and_branch.md)
+    * [git branch](./5_git_merge_and_branch.md#git-branch)
+    * [git checkout](./5_git_merge_and_branch.md#git-checkout)
+    * [git merge](./5_git_merge_and_branch.md#git-merge)
+    * [git mergetool](./5_git_merge_and_branch.md#git-mergetool)
 ---
 
 Logo by [SkillFactory](https://skillfactory.ru/)
