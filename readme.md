@@ -42,6 +42,11 @@ LICENSE: [MIT](./license.md)
     * [git bisect](./8_git_debug.md#git-bisect)
     * [git blame](./8_git_debug.md#git-blame)
     * [git grep](./8_git_debug.md#git-grep)
+
+9. [Команды конфигурации Git](./9_git_config.md)
+    * [git config](./9_git_config.md#git-config)
+    * [настройка git под конкретный редактор](./9_git_config.md#настройка-git-под-конкретный-редактор)
+    * [git help](./9_git_config.md#git-help)
 ---
 
 
