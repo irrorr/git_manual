@@ -47,6 +47,7 @@ LICENSE: [MIT](./license.md)
     * [git config](./9_git_config.md#git-config)
     * [настройка git под конкретный редактор](./9_git_config.md#настройка-git-под-конкретный-редактор)
     * [git help](./9_git_config.md#git-help)
+10. [Немного о файле .gitignore](./10_about_gitignore.md)
 ---
 
 
